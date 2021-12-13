@@ -12,4 +12,3 @@ Project Deployed Link: https://demolibraryapplication.herokuapp.com/
 
 Video Presentation Link: https://drive.google.com/drive/folders/1ytSy3HIib-FwbA68NAWi4UadSLoSl9Jc?usp=sharing
 
-Heroku Deplyment Link: https://demolibraryapplication.herokuapp.com/
